@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PriyanshuSingh69
-- 👀 I’m interested in Game Developing🎮
+- 👋 Hi, This side Priyanshu🙃
+- 👀 I’m interested in Game Development🎮
 - 🌱 I’m currently learning Python🐍
-- 💞️ I’m looking to collaborate on Not now
-- 📫 How to reach me?
+- 👶🏻 Just a newbie👶
 
 <!---
 PriyanshuSingh69/PriyanshuSingh69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
